@@ -47,7 +47,7 @@
 
 ## **Operation-Sota First Three Drops:**
 
-- [Reinforcement-Learning-Full-Pipeline](https://github.com/calisweetleaf/Reinforcement-Learning-Full-Pipeline)
+- Drop One: [Reinforcement-Learning-Full-Pipeline](https://github.com/calisweetleaf/Reinforcement-Learning-Full-Pipeline)
 
 - Drop Two: [SOTA-Runtime-Core](https://github.com/calisweetleaf/SOTA-Runtime-Core)
 
