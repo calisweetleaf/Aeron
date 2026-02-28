@@ -20,7 +20,8 @@
 ---
 
 <p align="center">
-  A research-grade, 3.85B-parameter transformer backbone combining SOTA++ architectural primitives with a neural-level Tree of Thought reasoning engine, three integrated memory systems, RLHF alignment infrastructure, and a production-ready LONPT training pipeline.
+  A research-grade, 3.85B-parameter transformer backbone combining SOTA++ architectural primitives with a neural-level Tree of Thought reasoning engine, three integrated memory systems, RLHF alignment infrastructure, and a production-ready LONPT training pipeline. Aeron represents drop four of five in the Project SOTA and its mission to democratize access to SOTA and industry standard advancements and the redistribution of compute. Aeron follows rlhf, neural router and memory system and then drop 3 Project Moonshine, or what is published as [distill-the-flow](https://github.com/calisweetleaf/distill-the-flow)
+  Please stay updated on the https://github.com/calisweetleaf/distill-the-flow and now drop four aeron repositories. All things contained in this repository are under the terms of the Somnus SOvereign Anti-Exploitation License, [somnus-license](https://github.com/calisweetleaf/somnus-license)
 </p>
 
 ---
@@ -43,6 +44,19 @@
 - [License](#license)
 
 ---
+
+## **Operation-Sota First Three Drops:**
+
+- [Reinforcement-Learning-Full-Pipeline](https://github.com/calisweetleaf/Reinforcement-Learning-Full-Pipeline)
+
+- Drop Two: [SOTA-Runtime-Core](https://github.com/calisweetleaf/SOTA-Runtime-Core)
+
+- Drop Three: [distill-the-flow](https://github.com/calisweetleaf/distill-the-flow)
+
+## How Aeron Fits
+
+- Aeron represents a novel transformer architecture used to spearhead and demo the prior releases utilizing past and planned future tooling to achieve State of the Art. Currently only documentation for both Project Moonshine (distill-the-flow) and Aeron repositories are public but this will change very fast so always be checking.
+
 
 ## Public Release vs Private Development
 
