@@ -10,7 +10,7 @@
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![Version](https://img.shields.io/badge/version-4.0.1-blue.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+![License](https://img.shields.io/badge/License-Sovereign-blueviolet?style=for-the-badge)
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![Parameters](https://img.shields.io/badge/parameters-3.85B-orange.svg)]()
