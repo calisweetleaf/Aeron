@@ -1,0 +1,23 @@
+# Core ML Framework
+torch
+torchvision
+torchaudio
+
+# Essential
+numpy
+tqdm
+
+# Optional (for tokenizer metrics - can comment out if not needed)
+prometheus-client
+
+# Not needed for training but included in original
+transformers
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+onnx
+onnxruntime
+Pillow
+rich
